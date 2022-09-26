@@ -21,4 +21,4 @@ For over 75 years, the Magic 8 Ball has retained its original paperweight design
 It contains a 20-sided plastic polyhedron that floats in diluted liquid. Inscribed on each of its facets 
 is a different answer to a yes-or-no question.
 
-The IRL physical version of the Magic 8 Ball requires the user to shake it for an answer, but our handy version above simply requires
+The IRL physical version of the Magic 8 Ball requires the user to shake it for an answer, but our handy version above simply requires a click.
